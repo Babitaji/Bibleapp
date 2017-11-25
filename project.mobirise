@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "versionPublish": "4.2.2"
   },
   "pages": {
@@ -43,12 +43,39 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">1 - &nbsp;Awe &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">2 - Anging &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">3 - Anger &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">4 - Angels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>     ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">1 - Awe</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">2 - Download</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1"
+          "_anchor": "buttons1-3"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Awe",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Bible Verses about Awe</p><p><br></p><p>\n</p><p>\n</p><p>★<b> 2 Corinthians 7:1\n</b></p><p>Therefore, since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, perfecting holiness out of reverence for God.</p><p><br></p><p>\n</p><p>\n</p><p>★ <b>Proverbs 22:4\n</b></p><p>Humility is the fear of the Lord; its wages are riches and honor and life.</p><p><br></p><p>\n</p><p>\n</p><p>★ <b>Proverbs 8:13 \n</b></p><p>To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.</p><p><br></p><p>\n</p><p>\n</p><p>★<b> Proverbs 31:30\n</b></p><p>Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.</p><p><br></p><p>\n</p><p>\n</p><p>★ <b>Proverbs 3:7-8 \n</b></p><p>Do not be wise in your own eyes; fear the Lord and shun evil. This will bring health to your body and nourishment to your bones.</p><p><br></p><p>\n</p><p>\n</p><p>★ <b>Proverbs 15:16\n</b></p><p>Better a little with the fear of the Lord than great wealth with turmoil.\n</p><p>\n</p><p><br></p><p><span style=\"font-size: 1.07rem;\">★ <b>Psalm 33:18</b></span><br></p><p>But the eyes of the Lord are on those who fear him, on those whose hope is in his unfailing love.\n</p><p>\n</p><p><br></p><p><span style=\"font-size: 1.07rem;\">★ <b>Romans 13:7</b></span><br></p><p>Give to everyone what you owe them: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.\n</p><p>\n</p><p><br></p><p>★ <b>Deuteronomy 13:4 \n</b></p><p>It is the Lord your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him.\n</p><p>\n</p><p><br></p><p>★ <b>Psalm 128:1\n</b></p><p>Blessed are all who fear the Lord, who walk in obedience to him.\n</p><p>\n</p><p><br></p><p>★<b> Deuteronomy 10:12-13 \n</b></p><p>And now, Israel, what does the Lord your God ask of you but to fear the Lord your God, to walk in obedience to him, to love him, to serve the Lord your God with all your heart and with all your soul, and to observe the Lord’s commands and decrees that I am giving you today for your own good?\n</p><p>\n</p><p><br></p><p>★ <b>Exodus 1:21\n</b></p><p>And because the midwives feared God, he gave them families of their own.\n</p><p>\n</p><p><br></p><p>★<b> Proverbs 1:7 \n</b></p><p>The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.\n</p><p>\n</p><p><br></p><p>★ <b>Job 6:14 \n</b></p><p>Anyone who withholds kindness from a friend forsakes the fear of the Almighty.\n</p><p>\n</p><p><br></p><p>★ <b>Proverbs 15:33\n</b></p><p>Wisdom’s instruction is to fear the Lord, and humility comes before honor.\n</p><p>\n</p><p><br></p><p>★ <b>Psalm 112:1\n</b></p><p>Praise the Lord. Blessed are those who fear the Lord, who find great delight in his commands.\n</p><p>\n</p><p><br></p><p>★ <b>Proverbs 9:10\n</b></p><p>The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.\n</p><p>\n</p><p><br></p><p>★ <b>Psalm 67:7\n</b></p><p>May God bless us still, so that all the ends of the earth will fear him.\n</p><p>\n</p><p><br></p><p>★ <b>Malachi 4:2\n</b></p><p>But for you who revere my name, the sun of righteousness will rise with healing in its rays. And you will go out and frolic like well-fed calves.\n</p><p>\n</p><p><br></p><p>★ <b>Ecclesiastes 12:13\n</b></p><p>Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments,\n</p><p>for this is the duty of all mankind.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
